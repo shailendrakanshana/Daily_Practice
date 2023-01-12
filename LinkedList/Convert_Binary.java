@@ -6,6 +6,9 @@ public class Convert_Binary {
             this.val = val;
         }
     }
+    public static void insert(ListNode head){
+        
+    }
     public ListNode reverse(ListNode head){
         if(head==null || head.next==null) return head;
 
